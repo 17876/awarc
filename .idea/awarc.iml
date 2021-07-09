@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$/../awarc-master" />
+    <content url="file://$MODULE_DIR$/../awarc-master">
+      <excludeFolder url="file://$MODULE_DIR$/../awarc-master/awarc.egg-info" />
+      <excludeFolder url="file://$MODULE_DIR$/../awarc-master/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../awarc-master/dist" />
+    </content>
     <orderEntry type="jdk" jdkName="Python 3.8 (base) (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
