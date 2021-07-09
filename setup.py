@@ -8,7 +8,6 @@ setuptools.setup(
     description="tools for working with file archive",
     url="https://github.com/17876/awarc.git",
     py_modules=["arc"],
-    package_dir={'': 'src'},
     install_requires=['setuptools==49.2.0'
                       ],
     packages=setuptools.find_packages(exclude=("tests",)),
