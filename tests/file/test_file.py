@@ -1,5 +1,5 @@
 import unittest
-from arc import File
+from awarc.arc import File
 import keywords
 
 class TestFile(unittest.TestCase):
